@@ -8,7 +8,9 @@
 #' @export
 #'
 #' @examples
+#' \dontrun{
 #' gruppe_summerer(All_Data)
+#' }
 gruppe_summerer <- function(name, fagGruppe, ...){
   datanew <- data.table::copy(FagData)
   datanew <- datanew[, .(sum(.SD)), by = .(id, year), .SDcols = Kattegori_Henter(fagGruppe,...)]

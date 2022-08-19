@@ -24,5 +24,7 @@ En tibble med to kolloner, City og Country
 Title
 }
 \examples{
+\dontrun{
 adresse_henter(Pull_2)
+}
 }

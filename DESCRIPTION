@@ -2,10 +2,9 @@ Package: ScienceWarFunksjoner
 Title: Functions needed to create the science data
 Version: 0.0.0.9000
 Authors@R: 
-    person("Eric G. E. ", Nilsen", , "e.g.e.nilsen@stv.uio.no", role = c("aut", "cre")
+    person("Eric G. E.", "Nilsen", ,  "e.g.e.nilsen@stv.uio.no", role = c("aut", "cre"))
 Description: Datasettet vi bruker krever flere funksjoner for å opprettes. Legger disse her for enkel tilgang.
-License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
-    license
+License: CC BY 4.0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.2.1
@@ -14,4 +13,5 @@ Depends:
 LazyData: true
 Imports: 
     data.table,
-    dplyr
+    dplyr,
+    magrittr

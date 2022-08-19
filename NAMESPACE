@@ -3,3 +3,4 @@
 export(adresse_henter)
 export(gruppe_summerer)
 import(data.table)
+import(magrittr)

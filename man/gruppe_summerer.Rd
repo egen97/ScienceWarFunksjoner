@@ -20,5 +20,7 @@ En data.table hvor fagene er redusert ned til kattegoriene bestemt i fagkattegor
 gruppe_summerer
 }
 \examples{
+\dontrun{
 gruppe_summerer(All_Data)
+}
 }
