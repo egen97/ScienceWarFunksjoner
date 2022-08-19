@@ -12,4 +12,4 @@ Kattegori_Henter <- function(Institutt, type = "publications"){
   }
   else stop("Institutt eller fakultet ikke funnet")
 }
-f
+
