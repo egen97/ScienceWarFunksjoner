@@ -11,7 +11,7 @@
 #' }
 kattegori_henter <- function(Institutt, type = "publications"){
   stopifnot(type == "publications" | type == "citations")
-  FagKattegorier <- ScienceWarFunksjoner::fagkattegorier
+  FagKattegorier <- setDT(ScienceWarFunksjoner::fagkattegorier)
   if(Institutt %in% FagKattegorier$Institutt){
 
     FagKattegorier$Fag[which(FagKattegorier$Institutt == Institutt & grepl(type, FagKattegorier$Fag))]
