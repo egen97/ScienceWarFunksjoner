@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Package: sciencePackage
+=======
+Package: ScienceWarFunksjoner
+>>>>>>> f015114150c0f999e618e0260e0d442d42da404e
 Title: Functions needed to create the science data
 Version: 0.0.0.9000
 Authors@R: 
