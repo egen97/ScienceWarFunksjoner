@@ -14,3 +14,4 @@ Kattegori_Henter <- function(Institutt, type = "publications"){
 }
 
 
+r
