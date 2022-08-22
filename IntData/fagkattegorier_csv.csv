@@ -1,0 +1,509 @@
+"","Fag","Institutt","Fakultet","Natvit/Sos_hum"
+"1","citations_agricultural.engineering","Biosciences","Mathematics and Natural Sciences",0
+"2","citations_agriculture.dairy.animal.science","Biosciences","Mathematics and Natural Sciences",0
+"3","citations_agriculture.multidisciplinary","Biosciences","Mathematics and Natural Sciences",0
+"4","citations_agronomy","Biosciences","Mathematics and Natural Sciences",0
+"5","citations_allergy","Clinical Medicine","Medicine",0
+"6","citations_anatomy.morphology","Basic Medical Science","Medicine",0
+"7","citations_andrology","Clinical Medicine","Medicine",0
+"8","citations_anesthesiology","Clinical Medicine","Medicine",0
+"9","citations_anthropology","Social Anthropology","Social Sciences",1
+"10","citations_archaeology","Archaeology","Humanities",1
+"11","citations_architecture","Architecture","Humanities",1
+"12","citations_area.studies","Literature, Area Studies and European Languages","Humanities",1
+"13","citations_art","Philosophy, Classics, History of Art and Ideas","Humanities",1
+"14","citations_asian.studies","Literature, Area Studies and European Languages","Humanities",1
+"15","citations_astronomy.astrophysics","Theoretical Astrophysics","Mathematics and Natural Sciences",0
+"16","citations_audiology.speech.language.pathology","Clinical Medicine","Medicine",0
+"17","citations_automation.control.systems","Informatics","Mathematics and Natural Sciences",0
+"18","citations_behavioral.sciences","Pschology","Social Sciences",1
+"19","citations_biochemical.research.methods","Biosciences","Mathematics and Natural Sciences",0
+"20","citations_biodiversity.conservation","Biosciences","Mathematics and Natural Sciences",0
+"21","citations_biophysics","Biosciences","Mathematics and Natural Sciences",0
+"22","citations_business","Economy","Social Sciences",1
+"23","citations_business.finance","Economy","Social Sciences",1
+"24","citations_cardiac.cardiovascular.systems","Clinical Medicine","Medicine",0
+"25","citations_cell.tissue.engineering","Clinical Medicine","Medicine",0
+"26","citations_chemistry.analytical","Chemistry","Mathematics and Natural Sciences",0
+"27","citations_chemistry.applied","Chemistry","Mathematics and Natural Sciences",0
+"28","citations_chemistry.inorganic.nuclear","Chemistry","Mathematics and Natural Sciences",0
+"29","citations_chemistry.medicinal","Chemistry","Mathematics and Natural Sciences",0
+"30","citations_chemistry.multidisciplinary","Chemistry","Mathematics and Natural Sciences",0
+"31","citations_chemistry.organic","Chemistry","Mathematics and Natural Sciences",0
+"32","citations_chemistry.physical","Chemistry","Mathematics and Natural Sciences",0
+"33","citations_classics","Philosophy, Classics, History of Art and Ideas","Humanities",1
+"34","citations_clinical.neurology","Clinical Medicine","Medicine",0
+"35","citations_communication","Media and Communication","Humanities",1
+"36","citations_computer.science.artificial.intelligence","Computer science","Mathematics and Natural Sciences",0
+"37","citations_computer.science.cybernetics","Computer science","Mathematics and Natural Sciences",0
+"38","citations_computer.science.hardware.architecture","Computer science","Mathematics and Natural Sciences",0
+"39","citations_computer.science.information.systems","Computer science","Mathematics and Natural Sciences",0
+"40","citations_computer.science.interdisciplinary.applications","Computer science","Mathematics and Natural Sciences",0
+"41","citations_computer.science.software.engineering","Computer science","Mathematics and Natural Sciences",0
+"42","citations_computer.science.theory.methods","Computer science","Mathematics and Natural Sciences",0
+"43","citations_construction.building.technology",NA,"Mathematics and Natural Sciences",0
+"44","citations_criminology.penology","Criminology","Law",1
+"45","citations_critical.care.medicine","Clinical Medicine","Medicine",0
+"46","citations_crystallography","Chemistry","Mathematics and Natural Sciences",0
+"47","citations_cultural.studies","Culture Studies and Oriental Languages","Humanities",1
+"48","citations_dance","Culture Studies and Oriental Languages","Humanities",1
+"49","citations_demography","Economy","Social Sciences",1
+"50","citations_dentistry.oral.surgery.medicine","Clinical Dentistry","Odontology",0
+"51","citations_dermatology","Clinical Medicine","Medicine",0
+"52","citations_development.studies","Sociology and Human Geography","Social Sciences",1
+"53","citations_ecology","Biosciences","Mathematics and Natural Sciences",0
+"54","citations_economics","Economy","Social Sciences",1
+"55","citations_education.educational.research","Education","Educational Sciences",1
+"56","citations_education.scientific.disciplines","Education","Educational Sciences",1
+"57","citations_education.special","Special Needs Education","Educational Sciences",1
+"58","citations_electrochemistry","Chemistry","Mathematics and Natural Sciences",0
+"59","citations_emergency.medicine","Clinical Medicine","Medicine",0
+"60","citations_endocrinology.metabolism","Clinical Medicine","Medicine",0
+"61","citations_energy.fuels","Chemistry","Mathematics and Natural Sciences",0
+"62","citations_engineering.aerospace",NA,"Mathematics and Natural Sciences",0
+"63","citations_engineering.biomedical","Biosciences","Mathematics and Natural Sciences",0
+"64","citations_engineering.chemical","Chemistry","Mathematics and Natural Sciences",0
+"65","citations_engineering.civil",NA,"Mathematics and Natural Sciences",0
+"66","citations_engineering.electrical.electronic","Physics","Mathematics and Natural Sciences",0
+"67","citations_engineering.environmental",NA,"Mathematics and Natural Sciences",0
+"68","citations_engineering.geological","Geosciences","Mathematics and Natural Sciences",0
+"69","citations_engineering.industrial",NA,"Mathematics and Natural Sciences",0
+"70","citations_engineering.manufacturing",NA,"Mathematics and Natural Sciences",0
+"71","citations_engineering.marine",NA,"Mathematics and Natural Sciences",0
+"72","citations_engineering.mechanical",NA,"Mathematics and Natural Sciences",0
+"73","citations_engineering.multidisciplinary",NA,"Mathematics and Natural Sciences",0
+"74","citations_engineering.ocean",NA,"Mathematics and Natural Sciences",0
+"75","citations_engineering.petroleum","Chemistry","Mathematics and Natural Sciences",0
+"76","citations_entomology","Biosciences","Mathematics and Natural Sciences",0
+"77","citations_environmental.sciences","Biosciences","Mathematics and Natural Sciences",0
+"78","citations_environmental.studies","Biosciences","Mathematics and Natural Sciences",0
+"79","citations_ergonomics","Clinical Medicine","Medicine",0
+"80","citations_ethics","Philosophy, Classics, History of Art and Ideas","Humanities",1
+"81","citations_ethnic.studies","Culture Studies and Oriental Languages","Humanities",1
+"82","citations_family.studies","Pschology","Social Sciences",1
+"83","citations_film.radio.television","Media and Communication","Humanities",1
+"84","citations_fisheries","Biosciences","Mathematics and Natural Sciences",0
+"85","citations_folklore","Literature, Area Studies and European Languages","Humanities",1
+"86","citations_food.science.technology","Chemistry","Mathematics and Natural Sciences",0
+"87","citations_forestry","Biosciences","Mathematics and Natural Sciences",0
+"88","citations_gastroenterology.hepatology","Clinical Medicine","Medicine",0
+"89","citations_genetics.heredity","Clinical Medicine","Medicine",0
+"90","citations_geochemistry.geophysics","Geosciences","Mathematics and Natural Sciences",0
+"91","citations_geography","Sociology and Human Geography","Social Sciences",1
+"92","citations_geography.physical","Geosciences","Mathematics and Natural Sciences",0
+"93","citations_geology","Geosciences","Mathematics and Natural Sciences",0
+"94","citations_geosciences.multidisciplinary","Geosciences","Mathematics and Natural Sciences",0
+"95","citations_geriatrics.gerontology","Clinical Medicine","Medicine",0
+"96","citations_gerontology","Clinical Medicine","Medicine",0
+"97","citations_green.sustainable.science.technology",NA,"Mathematics and Natural Sciences",0
+"98","citations_health.care.sciences.services","Health and Society","Medicine",0
+"99","citations_health.policy.services","Political Science","Social Sciences",1
+"100","citations_hematology","Clinical Medicine","Medicine",0
+"101","citations_history","History","Humanities",1
+"102","citations_history.of.social.sciences","History","Humanities",1
+"103","citations_history.philosophy.of.science","History","Humanities",1
+"104","citations_horticulture","Biosciences","Mathematics and Natural Sciences",0
+"105","citations_hospitality.leisure.sport.tourism",NA,"Social Sciences",1
+"106","citations_humanities.multidisciplinary",NA,"Humanities",1
+"107","citations_imaging.science.photographic.technology",NA,"Mathematics and Natural Sciences",0
+"108","citations_immunology","Clinical Medicine","Medicine",0
+"109","citations_industrial.relations.labor",NA,"Social Sciences",1
+"110","citations_infectious.diseases","Clinical Medicine","Medicine",0
+"111","citations_information.science.library.science","Library science","Humanities",1
+"112","citations_instruments.instrumentation",NA,"Mathematics and Natural Sciences",0
+"113","citations_integrative.complementary.medicine","Clinical Medicine","Medicine",0
+"114","citations_international.relations","Political Science","Social Sciences",1
+"115","citations_language.linguistics","Linguistics","Humanities",1
+"116","citations_law",NA,"Law",1
+"117","citations_limnology","Biosciences","Mathematics and Natural Sciences",0
+"118","citations_linguistics","Linguistics","Humanities",1
+"119","citations_literary.reviews","Literature, Area Studies and European Languages","Humanities",1
+"120","citations_literary.theory.criticism","Literature, Area Studies and European Languages","Humanities",1
+"121","citations_literature","Literature, Area Studies and European Languages","Humanities",1
+"122","citations_literature.african.australian.canadian","Literature, Area Studies and European Languages","Humanities",1
+"123","citations_literature.american","Literature, Area Studies and European Languages","Humanities",1
+"124","citations_literature.british.isles","Literature, Area Studies and European Languages","Humanities",1
+"125","citations_literature.german.dutch.scandinavian","Literature, Area Studies and European Languages","Humanities",1
+"126","citations_literature.romance","Literature, Area Studies and European Languages","Humanities",1
+"127","citations_literature.slavic","Literature, Area Studies and European Languages","Humanities",1
+"128","citations_logic","Philosophy, Classics, History of Art and Ideas","Humanities",1
+"129","citations_management",NA,"Social Sciences",1
+"130","citations_materials.science.biomaterials","Biosciences","Mathematics and Natural Sciences",0
+"131","citations_materials.science.ceramics","Chemistry","Mathematics and Natural Sciences",0
+"132","citations_materials.science.characterization.testing","Chemistry","Mathematics and Natural Sciences",0
+"133","citations_materials.science.coatings.films","Chemistry","Mathematics and Natural Sciences",0
+"134","citations_materials.science.composites","Chemistry","Mathematics and Natural Sciences",0
+"135","citations_materials.science.multidisciplinary",NA,"Mathematics and Natural Sciences",0
+"136","citations_materials.science.paper.wood","Chemistry","Mathematics and Natural Sciences",0
+"137","citations_materials.science.textiles","Chemistry","Mathematics and Natural Sciences",0
+"138","citations_mathematics","Mathematics","Mathematics and Natural Sciences",0
+"139","citations_mathematics.applied","Mathematics","Mathematics and Natural Sciences",0
+"140","citations_mathematics.interdisciplinary.applications","Mathematics","Mathematics and Natural Sciences",0
+"141","citations_mechanics",NA,"Mathematics and Natural Sciences",0
+"142","citations_medical.ethics","Health and Society","Medicine",0
+"143","citations_medical.informatics","Health and Society","Medicine",0
+"144","citations_medical.laboratory.technology",NA,"Medicine",0
+"145","citations_medicine.general.internal","Clinical Medicine","Medicine",0
+"146","citations_medicine.legal",NA,"Law",1
+"147","citations_medicine.research.experimental",NA,"Medicine",0
+"148","citations_medieval.renaissance.studies","History","Humanities",1
+"149","citations_metallurgy.metallurgical.engineering","Chemistry","Mathematics and Natural Sciences",0
+"150","citations_meteorology.atmospheric.sciences","Geosciences","Mathematics and Natural Sciences",0
+"151","citations_microscopy",NA,"Mathematics and Natural Sciences",0
+"152","citations_mineralogy","Chemistry","Mathematics and Natural Sciences",0
+"153","citations_mining.mineral.processing","Chemistry","Mathematics and Natural Sciences",0
+"154","citations_multidisciplinary.sciences",NA,"Mathematics and Natural Sciences",0
+"155","citations_music","Musicology","Humanities",1
+"156","citations_mycology","Biosciences","Mathematics and Natural Sciences",0
+"157","citations_nanoscience.nanotechnology","Physics","Mathematics and Natural Sciences",0
+"158","citations_neuroimaging","Clinical Medicine","Medicine",0
+"159","citations_neurosciences","Clinical Medicine","Medicine",0
+"160","citations_nuclear.science.technology","Physics","Mathematics and Natural Sciences",0
+"161","citations_nursing","Health and Society","Medicine",0
+"162","citations_nutrition.dietetics","Clinical Medicine","Medicine",0
+"163","citations_obstetrics.gynecology","Clinical Medicine","Medicine",0
+"164","citations_oceanography","Geosciences","Mathematics and Natural Sciences",0
+"165","citations_oncology","Clinical Medicine","Medicine",0
+"166","citations_operations.research.management.science",NA,"Medicine",1
+"167","citations_ophthalmology","Clinical Medicine","Medicine",0
+"168","citations_optics",NA,"Mathematics and Natural Sciences",0
+"169","citations_ornithology","Biosciences","Mathematics and Natural Sciences",0
+"170","citations_orthopedics","Clinical Medicine","Medicine",0
+"171","citations_other","Other","Other",NA
+"172","citations_otorhinolaryngology","Clinical Medicine","Medicine",0
+"173","citations_paleontology","Biosciences","Mathematics and Natural Sciences",0
+"174","citations_parasitology","Biosciences","Mathematics and Natural Sciences",0
+"175","citations_pathology","Clinical Medicine","Medicine",0
+"176","citations_pediatrics","Clinical Medicine","Medicine",0
+"177","citations_peripheral.vascular.disease","Clinical Medicine","Medicine",0
+"178","citations_pharmacology.pharmacy","Pharmacy","Mathematics and Natural Sciences",0
+"179","citations_philosophy","Philosophy, Classics, History of Art and Ideas","Humanities",1
+"180","citations_physics.applied","Physics","Mathematics and Natural Sciences",0
+"181","citations_physics.atomic.molecular.chemical","Physics","Mathematics and Natural Sciences",0
+"182","citations_physics.condensed.matter","Physics","Mathematics and Natural Sciences",0
+"183","citations_physics.fluids.plasmas","Physics","Mathematics and Natural Sciences",0
+"184","citations_physics.mathematical","Physics","Mathematics and Natural Sciences",0
+"185","citations_physics.multidisciplinary","Physics","Mathematics and Natural Sciences",0
+"186","citations_physics.nuclear","Physics","Mathematics and Natural Sciences",0
+"187","citations_physics.particles.fields","Physics","Mathematics and Natural Sciences",0
+"188","citations_physiology","Clinical Medicine","Medicine",0
+"189","citations_plant.sciences","Biosciences","Mathematics and Natural Sciences",0
+"190","citations_poetry","Literature, Area Studies and European Languages","Humanities",1
+"191","citations_political.science","Political Science","Social Sciences",1
+"192","citations_polymer.science","Chemistry","Mathematics and Natural Sciences",0
+"193","citations_primary.health.care","Clinical Medicine","Medicine",0
+"194","citations_psychiatry","Clinical Medicine","Medicine",0
+"195","citations_psychology","Pschology","Social Sciences",1
+"196","citations_psychology.applied","Pschology","Social Sciences",1
+"197","citations_psychology.biological","Pschology","Social Sciences",1
+"198","citations_psychology.clinical","Pschology","Social Sciences",1
+"199","citations_psychology.developmental","Pschology","Social Sciences",1
+"200","citations_psychology.educational","Pschology","Social Sciences",1
+"201","citations_psychology.experimental","Pschology","Social Sciences",1
+"202","citations_psychology.mathematical","Pschology","Social Sciences",1
+"203","citations_psychology.multidisciplinary","Pschology","Social Sciences",1
+"204","citations_psychology.psychoanalysis","Pschology","Social Sciences",1
+"205","citations_psychology.social","Pschology","Social Sciences",1
+"206","citations_public.administration","Political Science","Social Sciences",1
+"207","citations_public.environmental.occupational.health","Health and Society","Medicine",0
+"208","citations_quantum.science.technology","Physics","Mathematics and Natural Sciences",0
+"209","citations_radiology.nuclear.medicine.medical.imaging","Clinical Medicine","Medicine",0
+"210","citations_regional.urban.planning","Sociology and Human Geography","Social Sciences",1
+"211","citations_rehabilitation","Clinical Medicine","Medicine",0
+"212","citations_religion","Culture Studies and Oriental Languages","Humanities",1
+"213","citations_remote.sensing",NA,"Mathematics and Natural Sciences",0
+"214","citations_respiratory.system","Clinical Medicine","Medicine",0
+"215","citations_rheumatology","Clinical Medicine","Medicine",0
+"216","citations_robotics",NA,"Mathematics and Natural Sciences",0
+"217","citations_social.issues",NA,"Social Sciences",1
+"218","citations_social.sciences.biomedical",NA,"Social Sciences",1
+"219","citations_social.sciences.interdisciplinary",NA,"Social Sciences",1
+"220","citations_social.sciences.mathematical.methods",NA,"Social Sciences",1
+"221","citations_social.work",NA,"Social Sciences",1
+"222","citations_sociology","Sociology and Human Geography","Social Sciences",1
+"223","citations_soil.science","Biosciences","Mathematics and Natural Sciences",0
+"224","citations_spectroscopy","Physics","Mathematics and Natural Sciences",0
+"225","citations_sport.sciences","Clinical Medicine","Medicine",0
+"226","citations_statistics.probability","Mathematics","Mathematics and Natural Sciences",0
+"227","citations_substance.abuse","Clinical Medicine","Medicine",0
+"228","citations_surgery","Clinical Medicine","Medicine",0
+"229","citations_telecommunications","Media and Communication","Humanities",1
+"230","citations_theater","Literature, Area Studies and European Languages","Humanities",1
+"231","citations_thermodynamics","Physics","Mathematics and Natural Sciences",0
+"232","citations_toxicology","Clinical Medicine","Medicine",0
+"233","citations_transplantation","Clinical Medicine","Medicine",0
+"234","citations_transportation",NA,NA,NA
+"235","citations_transportation.science.technology",NA,NA,NA
+"236","citations_tropical.medicine","Clinical Medicine","Medicine",0
+"237","citations_urban.studies","Sociology and Human Geography","Social Sciences",1
+"238","citations_urology.nephrology","Clinical Medicine","Medicine",0
+"239","citations_veterinary.sciences","Clinical Veterinary Medicine","Veterinary Medicine",0
+"240","citations_virology","Clinical Medicine","Medicine",0
+"241","citations_water.resources","Geosciences","Mathematics and Natural Sciences",0
+"242","citations_women.s.studies","Women Studies","Humanities",1
+"243","citations_zoology","Biosciences","Mathematics and Natural Sciences",0
+"244","publications_acoustics",NA,"Mathematics and Natural Sciences",0
+"245","publications_agricultural.economics.policy","Political Science","Social Sciences",1
+"246","publications_agricultural.engineering","Biosciences","Mathematics and Natural Sciences",0
+"247","publications_agriculture.dairy.animal.science","Biosciences","Mathematics and Natural Sciences",0
+"248","publications_agriculture.multidisciplinary",NA,"Mathematics and Natural Sciences",0
+"249","publications_agronomy","Biosciences","Mathematics and Natural Sciences",0
+"250","publications_allergy","Clinical Medicine","Medicine",0
+"251","publications_anatomy.morphology","Basic Medical Science","Medicine",0
+"252","publications_andrology","Clinical Medicine","Medicine",0
+"253","publications_anesthesiology","Clinical Medicine","Medicine",0
+"254","publications_anthropology","Social Anthropology","Social Sciences",1
+"255","publications_archaeology","Archaeology","Humanities",1
+"256","publications_architecture","Architecture","Humanities",1
+"257","publications_area.studies","Literature, Area Studies and European Languages","Humanities",1
+"258","publications_art","Philosophy, Classics, History of Art and Ideas","Humanities",1
+"259","publications_asian.studies","Literature, Area Studies and European Languages","Humanities",1
+"260","publications_astronomy.astrophysics","Theoretical Astrophysics","Mathematics and Natural Sciences",0
+"261","publications_audiology.speech.language.pathology","Clinical Medicine","Medicine",0
+"262","publications_automation.control.systems","Informatics","Mathematics and Natural Sciences",0
+"263","publications_behavioral.sciences","Pschology","Social Sciences",1
+"264","publications_biochemical.research.methods","Biosciences","Mathematics and Natural Sciences",0
+"265","publications_biodiversity.conservation","Biosciences","Mathematics and Natural Sciences",0
+"266","publications_biophysics","Biosciences","Mathematics and Natural Sciences",0
+"267","publications_business","Economy","Social Sciences",1
+"268","publications_business.finance","Economy","Social Sciences",1
+"269","publications_cardiac.cardiovascular.systems","Clinical Medicine","Medicine",0
+"270","publications_cell.tissue.engineering","Clinical Medicine","Medicine",0
+"271","publications_chemistry.analytical","Chemistry","Mathematics and Natural Sciences",0
+"272","publications_chemistry.applied","Chemistry","Mathematics and Natural Sciences",0
+"273","publications_chemistry.inorganic.nuclear","Chemistry","Mathematics and Natural Sciences",0
+"274","publications_chemistry.medicinal","Chemistry","Mathematics and Natural Sciences",0
+"275","publications_chemistry.multidisciplinary","Chemistry","Mathematics and Natural Sciences",0
+"276","publications_chemistry.organic","Chemistry","Mathematics and Natural Sciences",0
+"277","publications_chemistry.physical","Chemistry","Mathematics and Natural Sciences",0
+"278","publications_classics","Philosophy, Classics, History of Art and Ideas","Humanities",1
+"279","publications_clinical.neurology","Clinical Medicine","Medicine",0
+"280","publications_communication","Media and Communication","Humanities",1
+"281","publications_computer.science.artificial.intelligence","Computer science","Mathematics and Natural Sciences",0
+"282","publications_computer.science.cybernetics","Computer science","Mathematics and Natural Sciences",0
+"283","publications_computer.science.hardware.architecture","Computer science","Mathematics and Natural Sciences",0
+"284","publications_computer.science.information.systems","Computer science","Mathematics and Natural Sciences",0
+"285","publications_computer.science.interdisciplinary.applications","Computer science","Mathematics and Natural Sciences",0
+"286","publications_computer.science.software.engineering","Computer science","Mathematics and Natural Sciences",0
+"287","publications_computer.science.theory.methods","Computer science","Mathematics and Natural Sciences",0
+"288","publications_construction.building.technology",NA,"Mathematics and Natural Sciences",0
+"289","publications_criminology.penology","Criminology","Law",1
+"290","publications_critical.care.medicine","Clinical Medicine","Medicine",0
+"291","publications_crystallography","Chemistry","Mathematics and Natural Sciences",0
+"292","publications_cultural.studies","Culture Studies and Oriental Languages","Humanities",1
+"293","publications_dance","Culture Studies and Oriental Languages","Humanities",1
+"294","publications_demography","Economy","Social Sciences",1
+"295","publications_dentistry.oral.surgery.medicine","Clinical Dentistry","Odontology",0
+"296","publications_dermatology","Clinical Medicine","Medicine",0
+"297","publications_development.studies","Sociology and Human Geography","Social Sciences",1
+"298","publications_ecology","Biosciences","Mathematics and Natural Sciences",0
+"299","publications_economics","Economy","Social Sciences",1
+"300","publications_education.educational.research","Education","Educational Sciences",1
+"301","publications_education.scientific.disciplines","Education","Educational Sciences",1
+"302","publications_education.special","Special Needs Education","Educational Sciences",1
+"303","publications_electrochemistry","Chemistry","Mathematics and Natural Sciences",0
+"304","publications_emergency.medicine","Clinical Medicine","Medicine",0
+"305","publications_endocrinology.metabolism","Clinical Medicine","Medicine",0
+"306","publications_energy.fuels","Chemistry","Mathematics and Natural Sciences",0
+"307","publications_engineering.aerospace",NA,"Mathematics and Natural Sciences",0
+"308","publications_engineering.biomedical","Biosciences","Mathematics and Natural Sciences",0
+"309","publications_engineering.chemical","Chemistry","Mathematics and Natural Sciences",0
+"310","publications_engineering.civil",NA,"Mathematics and Natural Sciences",0
+"311","publications_engineering.electrical.electronic","Physics","Mathematics and Natural Sciences",0
+"312","publications_engineering.environmental",NA,"Mathematics and Natural Sciences",0
+"313","publications_engineering.geological","Geosciences","Mathematics and Natural Sciences",0
+"314","publications_engineering.industrial",NA,"Mathematics and Natural Sciences",0
+"315","publications_engineering.manufacturing",NA,"Mathematics and Natural Sciences",0
+"316","publications_engineering.marine",NA,"Mathematics and Natural Sciences",0
+"317","publications_engineering.mechanical",NA,"Mathematics and Natural Sciences",0
+"318","publications_engineering.multidisciplinary",NA,"Mathematics and Natural Sciences",0
+"319","publications_engineering.ocean",NA,"Mathematics and Natural Sciences",0
+"320","publications_engineering.petroleum","Chemistry","Mathematics and Natural Sciences",0
+"321","publications_entomology","Biosciences","Mathematics and Natural Sciences",0
+"322","publications_environmental.sciences","Biosciences","Mathematics and Natural Sciences",0
+"323","publications_environmental.studies","Biosciences","Mathematics and Natural Sciences",0
+"324","publications_ergonomics","Clinical Medicine","Medicine",0
+"325","publications_ethics","Philosophy, Classics, History of Art and Ideas","Humanities",1
+"326","publications_ethnic.studies","Culture Studies and Oriental Languages","Humanities",1
+"327","publications_family.studies","Pschology","Social Sciences",1
+"328","publications_film.radio.television","Media and Communication","Humanities",1
+"329","publications_fisheries","Biosciences","Mathematics and Natural Sciences",0
+"330","publications_folklore","Literature, Area Studies and European Languages","Humanities",1
+"331","publications_food.science.technology","Chemistry","Mathematics and Natural Sciences",0
+"332","publications_forestry","Biosciences","Mathematics and Natural Sciences",0
+"333","publications_gastroenterology.hepatology","Clinical Medicine","Medicine",0
+"334","publications_genetics.heredity","Clinical Medicine","Medicine",0
+"335","publications_geochemistry.geophysics","Geosciences","Mathematics and Natural Sciences",0
+"336","publications_geography","Sociology and Human Geography","Social Sciences",1
+"337","publications_geography.physical","Geosciences","Mathematics and Natural Sciences",0
+"338","publications_geology","Geosciences","Mathematics and Natural Sciences",0
+"339","publications_geosciences.multidisciplinary","Geosciences","Mathematics and Natural Sciences",0
+"340","publications_geriatrics.gerontology","Clinical Medicine","Medicine",0
+"341","publications_gerontology","Clinical Medicine","Medicine",0
+"342","publications_green.sustainable.science.technology",NA,"Mathematics and Natural Sciences",0
+"343","publications_health.care.sciences.services","Health and Society","Medicine",0
+"344","publications_health.policy.services","Political Science","Social Sciences",1
+"345","publications_hematology","Clinical Medicine","Medicine",0
+"346","publications_history","History","Humanities",1
+"347","publications_history.of.social.sciences","History","Humanities",1
+"348","publications_history.philosophy.of.science","History","Humanities",1
+"349","publications_horticulture","Biosciences","Mathematics and Natural Sciences",0
+"350","publications_hospitality.leisure.sport.tourism",NA,"Social Sciences",1
+"351","publications_humanities.multidisciplinary",NA,"Humanities",1
+"352","publications_imaging.science.photographic.technology",NA,"Mathematics and Natural Sciences",0
+"353","publications_immunology","Clinical Medicine","Medicine",0
+"354","publications_industrial.relations.labor",NA,"Social Sciences",1
+"355","publications_infectious.diseases","Clinical Medicine","Medicine",0
+"356","publications_information.science.library.science","Library science","Humanities",1
+"357","publications_instruments.instrumentation",NA,"Mathematics and Natural Sciences",0
+"358","publications_integrative.complementary.medicine","Clinical Medicine","Medicine",0
+"359","publications_international.relations","Political Science","Social Sciences",1
+"360","publications_language.linguistics","Linguistics","Humanities",1
+"361","publications_law",NA,"Law",1
+"362","publications_limnology","Biosciences","Mathematics and Natural Sciences",0
+"363","publications_linguistics","Linguistics","Humanities",1
+"364","publications_literary.reviews","Literature, Area Studies and European Languages","Humanities",1
+"365","publications_literary.theory.criticism","Literature, Area Studies and European Languages","Humanities",1
+"366","publications_literature","Literature, Area Studies and European Languages","Humanities",1
+"367","publications_literature.african.australian.canadian","Literature, Area Studies and European Languages","Humanities",1
+"368","publications_literature.american","Literature, Area Studies and European Languages","Humanities",1
+"369","publications_literature.british.isles","Literature, Area Studies and European Languages","Humanities",1
+"370","publications_literature.german.dutch.scandinavian","Literature, Area Studies and European Languages","Humanities",1
+"371","publications_literature.romance","Literature, Area Studies and European Languages","Humanities",1
+"372","publications_literature.slavic","Literature, Area Studies and European Languages","Humanities",1
+"373","publications_logic","Philosophy, Classics, History of Art and Ideas","Humanities",1
+"374","publications_management",NA,"Social Sciences",1
+"375","publications_materials.science.biomaterials","Biosciences","Mathematics and Natural Sciences",0
+"376","publications_materials.science.ceramics","Chemistry","Mathematics and Natural Sciences",0
+"377","publications_materials.science.characterization.testing","Chemistry","Mathematics and Natural Sciences",0
+"378","publications_materials.science.coatings.films","Chemistry","Mathematics and Natural Sciences",0
+"379","publications_materials.science.composites","Chemistry","Mathematics and Natural Sciences",0
+"380","publications_materials.science.multidisciplinary",NA,"Mathematics and Natural Sciences",0
+"381","publications_materials.science.paper.wood","Chemistry","Mathematics and Natural Sciences",0
+"382","publications_materials.science.textiles","Chemistry","Mathematics and Natural Sciences",0
+"383","publications_mathematics","Mathematics","Mathematics and Natural Sciences",0
+"384","publications_mathematics.applied","Mathematics","Mathematics and Natural Sciences",0
+"385","publications_mathematics.interdisciplinary.applications","Mathematics","Mathematics and Natural Sciences",0
+"386","publications_mechanics",NA,"Mathematics and Natural Sciences",0
+"387","publications_medical.ethics","Health and Society","Medicine",0
+"388","publications_medical.informatics","Health and Society","Medicine",0
+"389","publications_medical.laboratory.technology",NA,"Medicine",0
+"390","publications_medicine.general.internal","Clinical Medicine","Medicine",0
+"391","publications_medicine.legal",NA,"Law",1
+"392","publications_medicine.research.experimental",NA,"Medicine",0
+"393","publications_medieval.renaissance.studies","History","Humanities",1
+"394","publications_metallurgy.metallurgical.engineering","Chemistry","Mathematics and Natural Sciences",0
+"395","publications_meteorology.atmospheric.sciences","Geosciences","Mathematics and Natural Sciences",0
+"396","publications_microscopy",NA,"Mathematics and Natural Sciences",0
+"397","publications_mineralogy","Chemistry","Mathematics and Natural Sciences",0
+"398","publications_mining.mineral.processing","Chemistry","Mathematics and Natural Sciences",0
+"399","publications_multidisciplinary.sciences",NA,"Mathematics and Natural Sciences",0
+"400","publications_music","Musicology","Humanities",1
+"401","publications_mycology","Biosciences","Mathematics and Natural Sciences",0
+"402","publications_nanoscience.nanotechnology","Physics","Mathematics and Natural Sciences",0
+"403","publications_neuroimaging","Clinical Medicine","Medicine",0
+"404","publications_neurosciences","Clinical Medicine","Medicine",0
+"405","publications_nuclear.science.technology","Physics","Mathematics and Natural Sciences",0
+"406","publications_nursing","Health and Society","Medicine",0
+"407","publications_nutrition.dietetics","Clinical Medicine","Medicine",0
+"408","publications_obstetrics.gynecology","Clinical Medicine","Medicine",0
+"409","publications_oceanography","Geosciences","Mathematics and Natural Sciences",0
+"410","publications_oncology","Clinical Medicine","Medicine",0
+"411","publications_operations.research.management.science",NA,"Medicine",1
+"412","publications_ophthalmology","Clinical Medicine","Medicine",0
+"413","publications_optics",NA,"Mathematics and Natural Sciences",0
+"414","publications_ornithology","Biosciences","Mathematics and Natural Sciences",0
+"415","publications_orthopedics","Clinical Medicine","Medicine",0
+"416","publications_other","Other","Other",NA
+"417","publications_otorhinolaryngology","Clinical Medicine","Medicine",0
+"418","publications_paleontology","Biosciences","Mathematics and Natural Sciences",0
+"419","publications_parasitology","Biosciences","Mathematics and Natural Sciences",0
+"420","publications_pathology","Clinical Medicine","Medicine",0
+"421","publications_pediatrics","Clinical Medicine","Medicine",0
+"422","publications_peripheral.vascular.disease","Clinical Medicine","Medicine",0
+"423","publications_pharmacology.pharmacy","Pharmacy","Mathematics and Natural Sciences",0
+"424","publications_philosophy","Philosophy, Classics, History of Art and Ideas","Humanities",1
+"425","publications_physics.applied","Physics","Mathematics and Natural Sciences",0
+"426","publications_physics.atomic.molecular.chemical","Physics","Mathematics and Natural Sciences",0
+"427","publications_physics.condensed.matter","Physics","Mathematics and Natural Sciences",0
+"428","publications_physics.fluids.plasmas","Physics","Mathematics and Natural Sciences",0
+"429","publications_physics.mathematical","Physics","Mathematics and Natural Sciences",0
+"430","publications_physics.multidisciplinary","Physics","Mathematics and Natural Sciences",0
+"431","publications_physics.nuclear","Physics","Mathematics and Natural Sciences",0
+"432","publications_physics.particles.fields","Physics","Mathematics and Natural Sciences",0
+"433","publications_physiology","Clinical Medicine","Medicine",0
+"434","publications_plant.sciences","Biosciences","Mathematics and Natural Sciences",0
+"435","publications_poetry","Literature, Area Studies and European Languages","Humanities",1
+"436","publications_political.science","Political Science","Social Sciences",1
+"437","publications_polymer.science","Chemistry","Mathematics and Natural Sciences",0
+"438","publications_primary.health.care","Clinical Medicine","Medicine",0
+"439","publications_psychiatry","Clinical Medicine","Medicine",0
+"440","publications_psychology","Pschology","Social Sciences",1
+"441","publications_psychology.applied","Pschology","Social Sciences",1
+"442","publications_psychology.biological","Pschology","Social Sciences",1
+"443","publications_psychology.clinical","Pschology","Social Sciences",1
+"444","publications_psychology.developmental","Pschology","Social Sciences",1
+"445","publications_psychology.educational","Pschology","Social Sciences",1
+"446","publications_psychology.experimental","Pschology","Social Sciences",1
+"447","publications_psychology.mathematical","Pschology","Social Sciences",1
+"448","publications_psychology.multidisciplinary","Pschology","Social Sciences",1
+"449","publications_psychology.psychoanalysis","Pschology","Social Sciences",1
+"450","publications_psychology.social","Pschology","Social Sciences",1
+"451","publications_public.administration","Political Science","Social Sciences",1
+"452","publications_public.environmental.occupational.health","Health and Society","Medicine",0
+"453","publications_quantum.science.technology","Physics","Mathematics and Natural Sciences",0
+"454","publications_radiology.nuclear.medicine.medical.imaging","Clinical Medicine","Medicine",0
+"455","publications_regional.urban.planning","Sociology and Human Geography","Social Sciences",1
+"456","publications_rehabilitation","Clinical Medicine","Medicine",0
+"457","publications_religion","Culture Studies and Oriental Languages","Humanities",1
+"458","publications_remote.sensing",NA,"Mathematics and Natural Sciences",0
+"459","publications_respiratory.system","Clinical Medicine","Medicine",0
+"460","publications_rheumatology","Clinical Medicine","Medicine",0
+"461","publications_robotics",NA,"Mathematics and Natural Sciences",0
+"462","publications_social.issues",NA,"Social Sciences",1
+"463","publications_social.sciences.biomedical",NA,"Social Sciences",1
+"464","publications_social.sciences.interdisciplinary",NA,"Social Sciences",1
+"465","publications_social.sciences.mathematical.methods",NA,"Social Sciences",1
+"466","publications_social.work",NA,"Social Sciences",1
+"467","publications_sociology","Sociology and Human Geography","Social Sciences",1
+"468","publications_soil.science","Biosciences","Mathematics and Natural Sciences",0
+"469","publications_spectroscopy","Physics","Mathematics and Natural Sciences",0
+"470","publications_sport.sciences","Clinical Medicine","Medicine",0
+"471","publications_statistics.probability","Mathematics","Mathematics and Natural Sciences",0
+"472","publications_substance.abuse","Clinical Medicine","Medicine",0
+"473","publications_surgery","Clinical Medicine","Medicine",0
+"474","publications_telecommunications","Media and Communication","Humanities",1
+"475","publications_theater","Literature, Area Studies and European Languages","Humanities",1
+"476","publications_thermodynamics","Physics","Mathematics and Natural Sciences",0
+"477","publications_toxicology","Clinical Medicine","Medicine",0
+"478","publications_transplantation","Clinical Medicine","Medicine",0
+"479","publications_transportation",NA,NA,NA
+"480","publications_transportation.science.technology",NA,NA,NA
+"481","publications_tropical.medicine","Clinical Medicine","Medicine",0
+"482","publications_urban.studies","Sociology and Human Geography","Social Sciences",1
+"483","publications_urology.nephrology","Clinical Medicine","Medicine",0
+"484","publications_veterinary.sciences","Clinical Veterinary Medicine","Veterinary Medicine",0
+"485","publications_virology","Clinical Medicine","Medicine",0
+"486","publications_water.resources","Geosciences","Mathematics and Natural Sciences",0
+"487","publications_women.s.studies","Women Studies","Humanities",1
+"488","publications_zoology","Biosciences","Mathematics and Natural Sciences",0
+"489","publications_biochemistry.molecular.biology","Biosciences","Mathematics and Natural Sciences",0
+"490","publications_biology","Biosciences","Mathematics and Natural Sciences",0
+"491","publications_biotechnology.applied.microbiology","Biosciences","Mathematics and Natural Sciences",0
+"492","publications_cell.biology","Biosciences","Mathematics and Natural Sciences",0
+"493","publications_developmental.biology","Biosciences","Mathematics and Natural Sciences",0
+"494","publications_evolutionary.biology","Biosciences","Mathematics and Natural Sciences",0
+"495","publications_marine.freshwater.biology","Biosciences","Mathematics and Natural Sciences",0
+"496","publications_mathematical.computational.biology","Biosciences","Mathematics and Natural Sciences",0
+"497","publications_microbiology","Biosciences","Mathematics and Natural Sciences",0
+"498","citations_biochemistry.molecular.biology","Biosciences","Mathematics and Natural Sciences",0
+"499","citations_biology","Biosciences","Mathematics and Natural Sciences",0
+"500","citations_biotechnology.applied.microbiology","Biosciences","Mathematics and Natural Sciences",0
+"501","citations_cell.biology","Biosciences","Mathematics and Natural Sciences",0
+"502","citations_developmental.biology","Biosciences","Mathematics and Natural Sciences",0
+"503","citations_evolutionary.biology","Biosciences","Mathematics and Natural Sciences",0
+"504","citations_marine.freshwater.biology","Biosciences","Mathematics and Natural Sciences",0
+"505","citations_mathematical.computational.biology","Biosciences","Mathematics and Natural Sciences",0
+"506","citations_microbiology","Biosciences","Mathematics and Natural Sciences",0
+"507","publications_reproductive.biology","Biosciences","Mathematics and Natural Sciences",0
+"508","citations_reproductive.biology","Biosciences","Mathematics and Natural Sciences",0
