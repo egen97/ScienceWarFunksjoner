@@ -15,6 +15,6 @@
 #' }
 gruppe_summerer <- function(x, name, fagGruppe, ...){
   datanew <- data.table::copy(x)
-  datanew <- datanew[, .(sum(.SD)), by = .(id, year), .SDcols = ScienceWarFunksjoner::kattegori_henter(fagGruppe,...)]
+  datanew <- datanew[, list(sum(.SD)), by = list(id, year), .SDcols = ScienceWarFunksjoner::kattegori_henter(fagGruppe,...)]
   rename(datanew, !!quo_name(name) := "V1")
 }
