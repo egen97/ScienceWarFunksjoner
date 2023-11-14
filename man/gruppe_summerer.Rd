@@ -4,9 +4,11 @@
 \alias{gruppe_summerer}
 \title{gruppe_summerer}
 \usage{
-gruppe_summerer(name, fagGruppe, ...)
+gruppe_summerer(x, name, fagGruppe, ...)
 }
 \arguments{
+\item{x}{datasettet som skal kollapses}
+
 \item{name}{gir navn til ny kollone med summen av fagene innenfor denne}
 
 \item{fagGruppe}{hvilket institutt som skal hentes}

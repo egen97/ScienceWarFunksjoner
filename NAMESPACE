@@ -2,5 +2,7 @@
 
 export(adresse_henter)
 export(gruppe_summerer)
+export(kattegori_henter)
 import(data.table)
+import(dplyr)
 import(magrittr)
